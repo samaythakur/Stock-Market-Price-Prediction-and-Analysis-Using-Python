@@ -1,4 +1,4 @@
-# Stock-Market-Price-Prediction-Analysis-Using-Python
+# Stock-Market-Price-Prediction-and-Analysis-Using-Python
 
 # Project Overview
 - Developed a Stock Market Price Prediction & Analysis System using Python, Machine Learning, and Deep Learning techniques for financial data analytics and forecasting.
