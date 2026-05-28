@@ -39,7 +39,7 @@
    - R² Score
    - Directional Accuracy
 9. Predict next-day stock closing prices.
-10. Generate investment insights and portfolio optimization analysis. :contentReference[oaicite:1]{index=1}
+10. Generate investment insights and portfolio optimization analysis. 
 
 # Results & Conclusion
 - Successfully developed a complete end-to-end stock market analysis and prediction system using Python and LSTM deep learning architecture.
